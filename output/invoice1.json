@@ -1,0 +1,11 @@
+{
+    "vendor_name": "Not Found",
+    "invoice_number": "Not Found",
+    "invoice_date": "Not Found",
+    "line_items": [
+        {
+            "raw_line": "Next, the PDF is converted into images using pdf2image."
+        }
+    ],
+    "document_type": "Invoice"
+}
